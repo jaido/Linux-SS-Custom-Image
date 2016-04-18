@@ -1,0 +1,1 @@
+# ARM-Templates-Linux-SS-Custom-Image
