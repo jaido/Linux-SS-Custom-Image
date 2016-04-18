@@ -1,1 +1,1 @@
-# ARM-Templates-Linux-SS-Custom-Image
+# Linux Scaleset Customer Image
