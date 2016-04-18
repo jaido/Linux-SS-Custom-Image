@@ -1,1 +1,2 @@
-# Linux Scaleset Customer Image
+# Linux Scaleset Custom Image
+
